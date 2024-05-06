@@ -2,7 +2,7 @@ import { redirect } from 'next/navigation';
 import { Center } from 'react-layout-kit';
 
 import BrandWatermark from '@/components/BrandWatermark';
-import Avatar from '@/features/AvatarWithUpload';
+import Divider from '@/components/Cell/Divider';
 import { isMobileDevice } from '@/utils/responsive';
 
 import AvatarBanner from './features/AvatarBanner';
@@ -16,9 +16,8 @@ const Page = () => {
 
   return (
     <>
-      <AvatarBanner>
-        <Avatar size={88} />
-      </AvatarBanner>
+      <AvatarBanner />
+      <Divider />
       <Cate />
       <ExtraCate />
       <Center padding={16}>
