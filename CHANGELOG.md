@@ -2,6 +2,123 @@
 
 # Changelog
 
+### [Version 0.157.2](https://github.com/lobehub/lobe-chat/compare/v0.157.1...v0.157.2)
+
+<sup>Released on **2024-05-13**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix azure openai stream.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix azure openai stream, closes [#2465](https://github.com/lobehub/lobe-chat/issues/2465) ([760fe67](https://github.com/lobehub/lobe-chat/commit/760fe67))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.157.1](https://github.com/lobehub/lobe-chat/compare/v0.157.0...v0.157.1)
+
+<sup>Released on **2024-05-12**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix dalle error.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix dalle error ([7c493de](https://github.com/lobehub/lobe-chat/commit/7c493de))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+## [Version 0.157.0](https://github.com/lobehub/lobe-chat/compare/v0.156.2...v0.157.0)
+
+<sup>Released on **2024-05-11**</sup>
+
+#### ✨ Features
+
+- **misc**: upgrade to the new `tool calls` mode.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's improved
+
+- **misc**: upgrade to the new `tool calls` mode, closes [#2414](https://github.com/lobehub/lobe-chat/issues/2414) ([7404f3b](https://github.com/lobehub/lobe-chat/commit/7404f3b))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.156.2](https://github.com/lobehub/lobe-chat/compare/v0.156.1...v0.156.2)
+
+<sup>Released on **2024-05-10**</sup>
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 0.156.1](https://github.com/lobehub/lobe-chat/compare/v0.156.0...v0.156.1)
+
+<sup>Released on **2024-05-10**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Azure OpenAI Vision models issue.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Azure OpenAI Vision models issue, closes [#2429](https://github.com/lobehub/lobe-chat/issues/2429) ([9b8a4b1](https://github.com/lobehub/lobe-chat/commit/9b8a4b1))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version 0.156.0](https://github.com/lobehub/lobe-chat/compare/v0.155.9...v0.156.0)
 
 <sup>Released on **2024-05-09**</sup>
